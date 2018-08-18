@@ -16,7 +16,8 @@
   <!-- Define the main entry-point to the application -->
   <content src="index.html" />
  <plugin name="cordova-plugin-whitelist" spec="1.2.2" />
-  <plugin name="cordova-plugin-ionic-keyboard"  spec="2.1.2" />
+  <plugin name="cordova-plugin-ionic-keyboard"  spec="2.1.2" /> 
+  
 
   <!-- Define app icon and splashscreen for each platform. -->
   <platform name="android">
